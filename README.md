@@ -25,11 +25,12 @@ tools and frameworks.
 
 | Project | Description | Tech |
 |---|---|---|
-| 🔍 ATS Resume Analyzer | NLP-based resume screening system | Python, NLP, FastAPI |
-| 💊 Drug Interaction AI | LLM-powered medical platform | LangChain, RAG, ChromaDB |
-| 🚗 Vehicle Evaluation System | ML-based price prediction | Scikit-learn, Docker |
-| ✍️ AI Blog Generator | LLM content creation tool | LLM API, LangChain |
-| 🎙️ Voice Assistant | Speech + NLP pipeline | Python, NLP |
+| 🤖 [Multi-Agent AI Platform](https://github.com/MohdAsif-AIML25/Multi-Agent_AI_Platform) | Production-ready multi-agent orchestration with ReAct workflows | FastAPI, LangGraph, LangChain, Docker, K8s |
+| 📚 [Enterprise RAG System](https://github.com/MohdAsif-AIML25/AI_Enterprise_RAG_System) | Multi-format RAG platform with source-cited Q&A | LangChain, Vector Embeddings, RAG |
+| ❤️ [ECG Arrhythmia Detection](https://github.com/MohdAsif-AIML25/ecg-arrhythmia-detection) | Real-time arrhythmia detection (CNN + BiLSTM + Attention) | PyTorch, FastAPI, Kubernetes |
+| 🔍 [AI Resume Analyzer](https://github.com/MohdAsif-AIML25/AI-Resume-Analyzer) | Resume parsing & semantic job matching | NLP, FastAPI |
+| 💊 [Smart Drug Interactions](https://github.com/MohdAsif-AIML25/smart_drug_interactions) | Microservices-based healthcare analytics platform | Docker Compose, ML |
+| 📊 [Churn Prediction Dashboard](https://github.com/MohdAsif-AIML25/Churn_Predictions_With_Dashboard) | XGBoost churn model (85% precision) with ROI dashboard | XGBoost, Streamlit |
 
 ---
 
