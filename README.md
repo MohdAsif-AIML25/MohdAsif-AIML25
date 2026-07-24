@@ -4,13 +4,21 @@
 
 🚀 Passionate about building AI-powered applications using **Machine Learning, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Agentic AI, and scalable Python backend systems.**
 
+<p align="left">
+  <a href="https://komarev.com/ghpvc/?username=MohdAsif-AIML25">
+    <img src="https://komarev.com/ghpvc/?username=MohdAsif-AIML25&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
+</p>
+
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-- 🔭 Building intelligent AI applications with **FastAPI, LangChain, LangGraph, and Python**
-- 🌱 Exploring **Agentic AI, Multi-Agent Systems, MLOps, and Cloud Deployment**
-- 💡 Interested in **Generative AI, NLP, Backend Engineering, and AI System Design**
+- 🎓 B.Tech in Information Technology
+- 🤖 Building AI-powered applications with **Python, FastAPI, LangChain, LangGraph, and LLMs**
+- 🔍 Interested in **Generative AI, Agentic AI, NLP, RAG, Backend Engineering, and MLOps**
+- 🌱 Currently learning **Multi-Agent AI Systems, Kubernetes, and Advanced RAG Architectures**
+- 💡 Passionate about solving real-world problems with AI and scalable backend solutions
 - 🎯 Seeking opportunities as an **AI/ML Engineer**, **Generative AI Engineer**, or **Python Backend Engineer**
 
 ---
@@ -22,12 +30,13 @@
 | **Languages** | Python, SQL, Java |
 | **AI / Machine Learning** | Scikit-learn, TensorFlow, PyTorch, XGBoost |
 | **Generative AI** | LangChain, LangGraph, LlamaIndex, OpenAI API |
-| **NLP** | Transformers, Hugging Face, NLTK, TF-IDF |
+| **Natural Language Processing** | Transformers, Hugging Face, NLTK, TF-IDF |
 | **Backend** | FastAPI, Flask, REST APIs |
 | **Databases** | PostgreSQL, MySQL, SQLite |
 | **Vector Databases** | ChromaDB, FAISS |
 | **Cloud & DevOps** | Docker, GitHub Actions, AWS |
 | **Data Analytics** | Pandas, NumPy, Power BI |
+| **Tools** | Git, GitHub, VS Code, Jupyter Notebook |
 
 ---
 
@@ -37,14 +46,14 @@
 |---------|-------------|------------|
 | 🤖 **Multi-Agent AI Platform** | AI platform with FastAPI, authentication, RBAC, and evolving LangGraph-based agent workflows | FastAPI, LangGraph, PostgreSQL, Docker |
 | ❤️ **ECG Arrhythmia Detection** | Deep learning system for ECG arrhythmia classification | PyTorch, CNN, BiLSTM |
-| 💊 **Smart Drug Interactions** | AI-assisted drug interaction prediction with ML and backend APIs | FastAPI, Machine Learning |
-| 📊 **Customer Churn Dashboard** | End-to-end churn prediction with interactive analytics dashboard | XGBoost, Streamlit |
-| 🔍 **AI Resume Analyzer** | Resume parsing and semantic job matching using NLP techniques | FastAPI, NLP |
+| 💊 **Smart Drug Interactions** | AI-assisted drug interaction prediction using machine learning and backend APIs | FastAPI, Machine Learning |
+| 📊 **Customer Churn Dashboard** | End-to-end customer churn prediction with interactive business dashboard | XGBoost, Streamlit |
+| 🔍 **AI Resume Analyzer** | Resume parsing and semantic job matching using NLP | FastAPI, NLP |
 | 🛒 **E-Commerce REST API** | Secure REST API with JWT authentication and payment integration | Flask, MySQL, JWT |
 
 ---
 
-# 📈 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
 
@@ -64,12 +73,12 @@
 
 # 🌱 Currently Learning
 
-- Multi-Agent AI Systems
-- Agentic AI Workflows
-- Advanced RAG Architectures
-- Kubernetes
-- MLOps
-- AWS Cloud Services
+- 🤖 Multi-Agent AI Systems
+- 🧠 Agentic AI Workflows
+- 📚 Advanced Retrieval-Augmented Generation (RAG)
+- ☁️ AWS Cloud Services
+- ⚙️ Kubernetes
+- 🚀 MLOps & AI Deployment
 
 ---
 
@@ -77,16 +86,40 @@
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/mohdasif-ai/">
+<a href="https://www.linkedin.com/in/mohdasif-ai/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/MohdAsif-AIML25">
+<a href="https://github.com/MohdAsif-AIML25" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+<a href="https://x.com/MohdAsifTechAI" target="_blank">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<!-- Add these when available -->
+
+<!--
+<a href="https://your-portfolio.com" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="mailto:your_email@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://drive.google.com/your_resume_link">
+<img src="https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge"/>
+</a>
+-->
 
 </p>
 
 ---
 
-⭐ *Building AI applications, learning continuously, and contributing to impactful projects.*
+## 💡 Motto
+
+> *"Learning continuously, building practical AI solutions, and growing into an engineer who creates meaningful real-world impact through technology."*
+
+⭐ **If you like my work, consider following my GitHub journey!**
