@@ -1,8 +1,10 @@
 # 👋 Hi, I'm Mohammad Asif
 
-### 🤖 Generative AI Engineer | AI/ML Engineer | Python Backend Developer
+### 🤖 AI/ML Engineer | Generative AI | LLMs | RAG | Python
 
-🚀 Passionate about building AI-powered applications using **Machine Learning, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Agentic AI, and scalable Python backend systems.**
+I build end-to-end AI applications using **Generative AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Machine Learning, NLP, and Python**.
+
+My focus is on developing practical AI systems using **FastAPI, LangChain, LangGraph, vector databases, PostgreSQL, Docker, and AWS**.
 
 <p align="left">
   <a href="https://komarev.com/ghpvc/?username=MohdAsif-AIML25">
@@ -12,71 +14,150 @@
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
 - 🎓 B.Tech in Information Technology
-- 🤖 Building AI-powered applications with **Python, FastAPI, LangChain, LangGraph, and LLMs**
-- 🔍 Interested in **Generative AI, Agentic AI, NLP, RAG, Backend Engineering, and MLOps**
-- 🌱 Currently learning **Multi-Agent AI Systems, Kubernetes, and Advanced RAG Architectures**
-- 💡 Passionate about solving real-world problems with AI and scalable backend solutions
-- 🎯 Seeking opportunities as an **AI/ML Engineer**, **Generative AI Engineer**, or **Python Backend Engineer**
+- 🤖 AI/ML Engineer focused on **Generative AI, LLMs, RAG, NLP, and Machine Learning**
+- 🧩 Building end-to-end AI applications using **Python, FastAPI, LangChain, LangGraph, and vector databases**
+- 🔍 Experienced with **RAG pipelines, embeddings, semantic search, NLP, and LLM-powered applications**
+- ⚙️ Building AI backend services with **FastAPI, PostgreSQL, Docker, Redis, and REST APIs**
+- ☁️ Exploring **AWS, MLOps, AI deployment, and scalable AI systems**
+- 🎯 Open to **AI Engineer, AI/ML Engineer, Generative AI Engineer, LLM Engineer, and Applied AI Engineer** opportunities
+
+---
+
+## 🚀 What I Build
+
+### 🤖 Generative AI & LLM Applications
+
+Building LLM-powered applications using **LangChain, LangGraph, LlamaIndex, Hugging Face, and OpenAI-compatible APIs**.
+
+### 🔍 Retrieval-Augmented Generation (RAG)
+
+Designing retrieval pipelines using **document processing, embeddings, vector search, ChromaDB, and context-aware generation**.
+
+### 🧠 AI Agents & Agentic Systems
+
+Developing **tool-using AI agents and multi-agent workflows** for intelligent task automation and decision-making.
+
+### 🧪 Machine Learning & NLP
+
+Building classification, prediction, NLP, and deep learning solutions using **Scikit-learn, PyTorch, TensorFlow, XGBoost, Transformers, and NLTK**.
+
+### ⚙️ AI Backend Engineering
+
+Developing REST APIs and AI services using **Python, FastAPI, Flask, PostgreSQL, Docker, Redis, and AWS**.
 
 ---
 
 # 🛠️ Tech Stack
 
 | Category | Technologies |
-|------------|-------------|
+|---|---|
 | **Languages** | Python, SQL, Java |
-| **AI / Machine Learning** | Scikit-learn, TensorFlow, PyTorch, XGBoost |
-| **Generative AI** | LangChain, LangGraph, LlamaIndex, OpenAI API |
-| **Natural Language Processing** | Transformers, Hugging Face, NLTK, TF-IDF |
+| **AI / Machine Learning** | Scikit-learn, PyTorch, TensorFlow, XGBoost |
+| **Generative AI** | LLMs, LangChain, LangGraph, LlamaIndex, Hugging Face |
+| **NLP** | Transformers, NLTK, TF-IDF |
 | **Backend** | FastAPI, Flask, REST APIs |
 | **Databases** | PostgreSQL, MySQL, SQLite |
 | **Vector Databases** | ChromaDB, FAISS |
-| **Cloud & DevOps** | Docker, GitHub Actions, AWS |
-| **Data Analytics** | Pandas, NumPy, Power BI |
-| **Tools** | Git, GitHub, VS Code, Jupyter Notebook |
+| **Cloud & DevOps** | AWS, Docker, GitHub Actions |
+| **Data & Analytics** | Pandas, NumPy, Power BI |
+| **Tools** | Git, GitHub, VS Code, Jupyter |
 
 ---
 
 # 🚀 Featured Projects
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🤖 **Multi-Agent AI Platform** | AI platform with FastAPI, authentication, RBAC, and evolving LangGraph-based agent workflows | FastAPI, LangGraph, PostgreSQL, Docker |
-| ❤️ **ECG Arrhythmia Detection** | Deep learning system for ECG arrhythmia classification | PyTorch, CNN, BiLSTM |
-| 💊 **Smart Drug Interactions** | AI-assisted drug interaction prediction using machine learning and backend APIs | FastAPI, Machine Learning |
-| 📊 **Customer Churn Dashboard** | End-to-end customer churn prediction with interactive business dashboard | XGBoost, Streamlit |
-| 🔍 **AI Resume Analyzer** | Resume parsing and semantic job matching using NLP | FastAPI, NLP |
-| 🛒 **E-Commerce REST API** | Secure REST API with JWT authentication and payment integration | Flask, MySQL, JWT |
+### 🤖 [Multi-Agent AI Platform](https://github.com/MohdAsif-AIML25)
 
----
-## 📊 GitHub Analytics
+AI platform focused on **agentic workflows and multi-agent orchestration**, with a FastAPI backend, authentication, RBAC, PostgreSQL, and LangGraph-based agent workflows.
 
-<p align="center">
-  <img height="170" alt="GitHub Stats"
-       src="https://github-readme-stats.vercel.app/api?username=MohdAsif-AIML25&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&cache_seconds=1800"/>
-
-  <img height="170" alt="Top Languages"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohdAsif-AIML25&layout=compact&theme=github_dark&hide_border=true&langs_count=8&cache_seconds=1800"/>
-</p>
-
-<p align="center">
-  <img alt="GitHub Streak"
-       src="https://streak-stats.demolab.com?user=MohdAsif-AIML25&theme=github-dark&hide_border=true"/>
-</p>
+**Tech:** `Python` `FastAPI` `LangGraph` `PostgreSQL` `Docker`
 
 ---
 
-# 🌱 Currently Learning
+### 💊 [Smart Drug Interactions](https://github.com/MohdAsif-AIML25)
 
-- 🤖 Multi-Agent AI Systems
-- 🧠 Agentic AI Workflows
-- 📚 Advanced Retrieval-Augmented Generation (RAG)
-- ☁️ AWS Cloud Services
-- ⚙️ Kubernetes
-- 🚀 MLOps & AI Deployment
+AI-assisted healthcare application combining **Machine Learning, NLP, LLMs, and RAG** to analyze potential drug interactions and provide context-aware information.
+
+**Tech:** `Python` `Machine Learning` `NLP` `LLM` `RAG` `FastAPI` `ChromaDB`
+
+---
+
+### 📄 [AI Resume Analyzer](https://github.com/MohdAsif-AIML25/AI-Resume-Analyzer)
+
+AI-powered resume analysis and semantic job matching system that combines **resume parsing, embeddings, vector search, RAG, and backend APIs**.
+
+**Tech:** `Python` `FastAPI` `LangChain` `ChromaDB` `PostgreSQL` `Docker`
+
+---
+
+### ❤️ [ECG Arrhythmia Detection](https://github.com/MohdAsif-AIML25)
+
+Deep learning system for ECG signal classification and arrhythmia detection using neural network architectures.
+
+**Tech:** `Python` `PyTorch` `CNN` `BiLSTM` `Deep Learning`
+
+---
+
+### 🛡️ [Real-Time Fraud Detection](https://github.com/MohdAsif-AIML25)
+
+Machine learning system designed to identify potentially fraudulent transactions using data preprocessing, feature engineering, model training, and evaluation.
+
+**Tech:** `Python` `Scikit-learn` `XGBoost` `Machine Learning`
+
+---
+
+### 📊 [Customer Churn Prediction](https://github.com/MohdAsif-AIML25)
+
+End-to-end customer churn prediction system combining machine learning with an interactive analytics dashboard.
+
+**Tech:** `Python` `XGBoost` `Scikit-learn` `Streamlit` `Pandas`
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img
+    height="170"
+    alt="GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api?username=MohdAsif-AIML25&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&cache_seconds=1800"
+  />
+
+  <img
+    height="170"
+    alt="Top Languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohdAsif-AIML25&layout=compact&theme=github_dark&hide_border=true&langs_count=8&cache_seconds=1800"
+  />
+</p>
+
+---
+
+# 🌱 Currently Focused On
+
+- 🤖 Building **LLM and RAG applications**
+- 🧠 **AI Agents and Multi-Agent Systems**
+- 🔍 **Advanced Retrieval and Semantic Search**
+- 📊 **LLM and RAG Evaluation**
+- ☁️ **AWS deployment for AI applications**
+- ⚙️ **MLOps and AI system deployment**
+
+---
+
+# 🎯 Career Focus
+
+I am currently seeking opportunities where I can contribute to building and deploying practical AI systems.
+
+### Target Roles
+
+- **AI Engineer**
+- **AI/ML Engineer**
+- **Generative AI Engineer**
+- **LLM Engineer**
+- **Machine Learning Engineer**
+- **Applied AI Engineer**
 
 ---
 
@@ -96,28 +177,8 @@
 <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
-<!-- Add these when available -->
-
-<!--
-<a href="https://your-portfolio.com" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="mailto:your_email@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://drive.google.com/your_resume_link">
-<img src="https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge"/>
-</a>
--->
-
 </p>
 
 ---
 
-## 💡 Motto
-
-> *"Learning continuously, building practical AI solutions, and growing into an engineer who creates meaningful real-world impact through technology."*
-
-⭐ **If you like my work, consider following my GitHub journey!**
+⭐ **Building practical AI systems with Python, GenAI, LLMs, RAG, and Machine Learning.**
