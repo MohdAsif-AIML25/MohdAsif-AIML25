@@ -116,13 +116,12 @@ End-to-end customer churn prediction system combining machine learning with an i
 **Tech:** `Python` `XGBoost` `Scikit-learn` `Streamlit` `Pandas`
 
 ---
-
 # 📊 GitHub Analytics
 
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=MohdAsif-AIML25&show_icons=true&theme=github_dark&hide_border=true"
-    alt="Mohammad Asif's GitHub Stats"
+    alt="GitHub Stats"
     height="170"
   />
 
@@ -132,6 +131,10 @@ End-to-end customer churn prediction system combining machine learning with an i
     height="170"
   />
 </p>
+
+## 📈 GitHub Contributions
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=MohdAsif-AIML25&theme=github-dark&hide_border=true)
 ---
 
 # 🌱 Currently Focused On
